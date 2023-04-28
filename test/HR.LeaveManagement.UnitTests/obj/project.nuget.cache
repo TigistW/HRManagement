@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvIUmKiC9Iu1R3S4kPwJjdZcI5XjPgc82DbQj1WTJu3yUJeYfjr4wFiGxkt4N+X5I/l56xXKCGoUPrnXDIVBSw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\HRManagement\\test\\HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeCoverage.17.1.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg'.\r\nNo such host is known. (api.nuget.org:443)\r\n  No such host is known."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CodeCoverage' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/index.json'.",
+      "libraryId": "Microsoft.CodeCoverage"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.TestPlatform.TestHost.17.1.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.testhost/17.1.0/microsoft.testplatform.testhost.17.1.0.nupkg'.\r\nNo such host is known. (api.nuget.org:443)\r\n  No such host is known."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.TestPlatform.TestHost' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.testhost/index.json'.",
+      "libraryId": "Microsoft.TestPlatform.TestHost"
+    }
+  ]
+}
